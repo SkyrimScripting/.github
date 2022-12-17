@@ -1,0 +1,2 @@
+# .github
+Skyrim Scripting
