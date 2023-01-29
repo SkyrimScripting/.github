@@ -1,4 +1,4 @@
-![Skyrim Scripting](https://raw.githubusercontent.com/SkyrimScripting/Resources/main/SkyrimScripting/Logo/Images/SkyrimScripting_Logo.png)
+![Skyrim Scripting](https://raw.githubusercontent.com/SkyrimScripting/Resources/main/SkyrimScripting/Logo/Images/v2/Skyrim%20Scripting%20v2%20Wide%20-%201280%20-%20Cropped.png)
 
 > ~ [Mrowr Purr](https://github.com/mrowrpurr)
 
